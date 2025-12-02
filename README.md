@@ -12,6 +12,7 @@ Built-in example modules:
 * Local time (12-hour)
 * Lobsters RSS headlines
 * Plain text file
+* Octoprint status (new 12/2/2025)
 
 ---
 
